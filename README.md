@@ -20,5 +20,6 @@ mpl_toolkits.mplot3d
 numpy
 pandas
 You can install the required dependencies using:
-
+"""
 pip install scanpy matplotlib pandas
+"""
