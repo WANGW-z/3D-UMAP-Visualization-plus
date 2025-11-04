@@ -14,11 +14,11 @@ Optional export of figures
 # 🧰 Requirements
 This notebook was developed using the following Python packages:
 
-scanpy
-matplotlib
-mpl_toolkits.mplot3d
-numpy
-pandas
+### scanpy
+### matplotlib
+### mpl_toolkits.mplot3d
+### numpy
+### pandas
 You can install the required dependencies using:
 ```
 pip install scanpy matplotlib pandas
